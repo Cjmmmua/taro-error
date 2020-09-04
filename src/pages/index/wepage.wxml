@@ -1,0 +1,7 @@
+<view>
+    <text>hello world!</text>
+    <Message 
+        visible='{{message.visible}}'
+        content='{{message.content}}'
+    ></Message>
+</view>
